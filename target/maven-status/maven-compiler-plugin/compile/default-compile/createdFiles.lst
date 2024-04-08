@@ -1,0 +1,5 @@
+controllers\JakartaRestConfiguration.class
+models\Autor.class
+models\ConexionBD.class
+models\CRUDAutor.class
+models\JakartaEE10Resource.class
